@@ -1,0 +1,10 @@
+Comandos mais comuns
+
+add "nome_do_arquivo" ou add . (adiciona todos os arquivos modificados do diretório)
+commit -m "comentario do commit"
+push (envia para o github)
+
+Comandos diferentes
+
+status (mostra o estado de cada arquivo)
+git diff HEAD~1
